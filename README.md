@@ -3,7 +3,7 @@
 I am Lucas Cardoso, an Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently an intern at LIS (Software Innovation Lab), associated with HP (Hewlett-Packard Company). I love coding, learning new exciting subjects and listening to music :musical_note:
 
 - 🔭 I’m currently working on LIS (Software Innovation Lab)
-- 🌱 I’m currently learning some AI and Deep Learning 🧠
+- 🌱 I’m currently learning about AI and Deep Learning 🧠
 - 💬 I like learning new languages as well!!
 - 😄 Fun fact: If you responded with "General Kenobi" when reading the title, then you are a Star Wars fan too!!
 
