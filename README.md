@@ -1,6 +1,6 @@
 ### Hello there, and Welcome! 👋
 
-I am Lucas Cardoso, an Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently an intern at LIS (Software Innovation Lab), associated with HP (Hewlett-Packard Company). I love coding, learning new exciting subjects and listening to music :musical_note:
+I am Lucas Cardoso, Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently an intern at LIS (Software Innovation Lab), associated with HP (Hewlett-Packard Company). I love coding, learning new exciting subjects and listening to music :musical_note:
 
 - 🔭 I’m currently working on LIS (Software Innovation Lab)
 - 🧠 I’m currently learning about AI and Deep Learning 
