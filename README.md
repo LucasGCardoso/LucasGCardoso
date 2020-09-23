@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If you responded with "General Kenobi" when reading the title, you are a Star Wars fan too :D
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGCardoso&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGCardoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGCardoso&showicons=true&theme=gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGCardoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
