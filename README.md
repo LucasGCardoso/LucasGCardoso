@@ -1,6 +1,6 @@
 ### Hello there, and Welcome! 👋
 
-I am Lucas Cardoso, Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently an intern at HP (Hewlett-Packard Company). I love coding, learning new exciting subjects and listening to music :musical_note:
+I am Lucas Cardoso, Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently an intern at HP (Hewlett-Packard Company). I love coding, learning new exciting subjects, gaming 🎮 and listening to music :musical_note:
 
 - 🔭 I’m currently working on HP as a Software, Research & Development Intern;
 - 🧠 I’m currently learning about AI, Deep Learning and Web3; 
