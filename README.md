@@ -1,11 +1,12 @@
 ### Hello there, and Welcome! 👋
 
-I am Lucas Cardoso, Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently an intern at HP (Hewlett-Packard Company). I love coding, learning new exciting subjects, gaming 🎮 and listening to music :musical_note:
+I am Lucas Cardoso, Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently a Machine Learning Engineer at HP (Hewlett-Packard Company). I love coding, exercising, learning new exciting subjects, cultures and languages, gaming 🎮 and listening to music :musical_note:
 
-- 🔭 I’m currently working on HP as a Software, Research & Development Intern;
-- 🧠 I’m currently learning about AI, Deep Learning and Web3; 
+- 🔭 I’m currently working on HP as a Machine Learning Engineer;
+- 🧠 I’m currently learning about GenAI, LLMs, LLMOps and Game Development(as a hobby); 
 - 💬 I like learning new languages as well!!
-- 😄 Fun fact: If you responded with "General Kenobi" when reading the title, then you are a Star Wars fan too!!
+- 😄 Fun fact: If you responded with "General Kenobi" when reading the "Hello there" in the title, then you are a true Star Wars fan as well!!
+-  📫 How to reach me: Feel free to contact me in my [LinkedIn](www.linkedin.com/in/lucas-gavirachi-cardoso-7b214a16a), or send me an [email](mailto:lucasgavirachicc@gmail.com).
 
 <!--
 **LucasGCardoso/LucasGCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
