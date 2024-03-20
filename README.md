@@ -1,6 +1,6 @@
 ### Hello there, and Welcome! 👋
 
-I am Lucas Cardoso, Undergraduate Software Engineer Student at PUCRS university - Brazil. I am currently a Machine Learning Engineer at HP (Hewlett-Packard Company). I love coding, exercising, learning new exciting subjects, cultures and languages, gaming 🎮 and listening to music :musical_note:
+I am Lucas Cardoso, Machine Learning Engineer and Software Engineer. I am currently working at HP (Hewlett-Packard Company). I love coding, exercising, learning new exciting subjects, cultures and languages, gaming 🎮 and listening to music :musical_note:
 
 - 🔭 I’m currently working on HP as a Machine Learning Engineer;
 - 🧠 I’m currently learning about GenAI, LLMs, LLMOps and Game Development(as a hobby); 
