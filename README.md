@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGCardoso&show_icons=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGCardoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Project Euler](https://projecteuler.net/profile/Azagovisk.png)
 ![](https://komarev.com/ghpvc/?username=LucasGCardoso&color=grey)
